@@ -39,6 +39,7 @@ public class TaskA {
         System.out.println("Sugar: " + newSugarG + "g/" + newSugarOz + "oz");
         System.out.println("Plain Flour: " + newPlainflourG + "g/" + newPlainflourOz + "oz");
 
+
         scan.close(); // Closing the scanner to prevent resource leaks
     }
 }
