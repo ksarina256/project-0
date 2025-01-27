@@ -3,9 +3,6 @@
 // Assignment 2
 // 9/10/24
 
-// testing
-// hello
-
 import java.util.Scanner; // Importing Scanner class for user input
 
 // This program calculates the required ingredient amounts for making shortbread cookies based on user input
